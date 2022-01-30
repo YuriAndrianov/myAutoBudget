@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ExpenseCollectionViewCell" customModule="myAutoBudget" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="90" height="110"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="90" height="110"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uQf-FR-VT3">
+                        <rect key="frame" x="20" y="0.0" width="50" height="50"/>
+                        <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="1Nx-kD-pFQ"/>
+                            <constraint firstAttribute="height" constant="50" id="Hqr-YY-0BA"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HLn-Bd-QrP">
+                        <rect key="frame" x="0.0" y="50" width="90" height="55"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="HLn-Bd-QrP" secondAttribute="bottom" constant="5" id="2VM-Em-btH"/>
+                <constraint firstItem="uQf-FR-VT3" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="4tQ-yi-Q7B"/>
+                <constraint firstItem="uQf-FR-VT3" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="Eqa-95-Pmr"/>
+                <constraint firstItem="HLn-Bd-QrP" firstAttribute="leading" secondItem="ZTg-uK-7eu" secondAttribute="leading" id="Nwj-Wr-zTh"/>
+                <constraint firstItem="ZTg-uK-7eu" firstAttribute="trailing" secondItem="HLn-Bd-QrP" secondAttribute="trailing" id="qcB-Uv-U7S"/>
+                <constraint firstItem="HLn-Bd-QrP" firstAttribute="top" secondItem="uQf-FR-VT3" secondAttribute="bottom" id="yRU-xS-xmY"/>
+            </constraints>
+            <size key="customSize" width="120" height="122"/>
+            <connections>
+                <outlet property="expenseImageView" destination="uQf-FR-VT3" id="GW0-LJ-Gz7"/>
+                <outlet property="expenseLabel" destination="HLn-Bd-QrP" id="3mC-ZZ-i6f"/>
+            </connections>
+            <point key="canvasLocation" x="230.43478260869566" y="117.85714285714285"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

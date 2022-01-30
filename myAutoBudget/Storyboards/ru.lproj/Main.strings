@@ -1,0 +1,54 @@
+
+/* Class = "UINavigationItem"; title = "Статистика"; ObjectID = "3ja-PX-hbf"; */
+"3ja-PX-hbf.title" = "Статистика";
+
+/* Class = "UILabel"; text = "Введите сумму:"; ObjectID = "Edw-Ml-Jc1"; */
+"Edw-Ml-Jc1.text" = "Введите сумму:";
+
+/* Class = "UILabel"; text = "dateLabel"; ObjectID = "Fcu-pO-S7s"; */
+"Fcu-pO-S7s.text" = "dateLabel";
+
+/* Class = "UILabel"; text = "Выберите категорию:"; ObjectID = "HQc-tH-h1l"; */
+"HQc-tH-h1l.text" = "Выберите категорию:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I3a-Vd-fwo"; */
+"I3a-Vd-fwo.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Статистика"; ObjectID = "O4I-f7-ugp"; */
+"O4I-f7-ugp.title" = "Статистика";
+
+/* Class = "UINavigationItem"; title = "Все операции"; ObjectID = "QD2-NM-NPP"; */
+"QD2-NM-NPP.title" = "Все операции";
+
+/* Class = "UILabel"; text = "Введите пробег:"; ObjectID = "RRf-Up-VwN"; */
+"RRf-Up-VwN.text" = "Введите пробег:";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "TZP-bB-TQO"; */
+"TZP-bB-TQO.text" = "-";
+
+/* Class = "UIButton"; configuration.title = "Записать"; ObjectID = "go2-aQ-ni1"; */
+"go2-aQ-ni1.configuration.title" = "Записать";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "go2-aQ-ni1"; */
+"go2-aQ-ni1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "км"; ObjectID = "iTU-ix-9ek"; */
+"iTU-ix-9ek.text" = "км";
+
+/* Class = "UILabel"; text = "Expense"; ObjectID = "jmA-g8-K8Q"; */
+"jmA-g8-K8Q.text" = "Expense";
+
+/* Class = "UILabel"; text = "Выберите период:"; ObjectID = "lnI-Gs-Lhv"; */
+"lnI-Gs-Lhv.text" = "Выберите период:";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "nCX-dM-bNE"; */
+"nCX-dM-bNE.title" = "Item";
+
+/* Class = "UILabel"; text = "Предыдущее значение:"; ObjectID = "nyQ-kS-NTR"; */
+"nyQ-kS-NTR.text" = "Предыдущее значение:";
+
+/* Class = "UITabBarItem"; title = "Все операции"; ObjectID = "r7h-Nk-CLj"; */
+"r7h-Nk-CLj.title" = "Все операции";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yIz-wf-m3w"; */
+"yIz-wf-m3w.title" = "Item";
