@@ -1,8 +1,8 @@
-# myAutoBudget ![Alt-текст](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Assets.xcassets/AppIcon.appiconset/80.png "ICON")
+# myAutoBudget ![Alt-текст](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/myautobudget.png "ICON")
 
 **myAutoBudget** is a budgeting app that allows you to track the costs of your car, save them and keep statistics 
 
-## I invite you to join beta testing of my app <https://testflight.apple.com/join/ZsJhNdb8>
+## [<img src="https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png "BADGE"" height="50">](https://apple.co/34I36na)
 
 ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/IMG_0317.GIF "GIF1") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/IMG_0318.GIF "GIF2")
 
@@ -38,4 +38,3 @@
 * MapKit + CoreLocation
 * User Notifications
 * SwiftLint
-

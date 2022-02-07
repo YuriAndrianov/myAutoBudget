@@ -8,6 +8,7 @@
 import Foundation
 
 extension String {
+    
     static let numberFormatter = NumberFormatter()
     var doubleValue: Double {
         String.numberFormatter.decimalSeparator = "."
@@ -21,4 +22,5 @@ extension String {
         }
         return 0
     }
+    
 }

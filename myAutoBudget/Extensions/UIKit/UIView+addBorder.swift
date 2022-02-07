@@ -8,6 +8,7 @@
 import UIKit
 
 extension UIView {
+    
     func addBorder(_ edge: UIRectEdge, color: UIColor, thickness: CGFloat) {
         let subview = UIView()
         subview.translatesAutoresizingMaskIntoConstraints = false
@@ -39,4 +40,5 @@ extension UIView {
             break
         }
     }
+    
 }

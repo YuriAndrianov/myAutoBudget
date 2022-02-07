@@ -30,6 +30,8 @@
 		FA392CB9274BA9A800774A5E /* Reminder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA392CB8274BA9A800774A5E /* Reminder.swift */; };
 		FA392CBB274BB2A000774A5E /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA392CBA274BB2A000774A5E /* Car.swift */; };
 		FA392CBD274BD44100774A5E /* ReminderChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA392CBC274BD44100774A5E /* ReminderChecker.swift */; };
+		FA6ACAC127B191D3001F9DF1 /* myautobudget.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6ACAC027B191D3001F9DF1 /* myautobudget.png */; };
+		FA6ACAC527B1933D001F9DF1 /* app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png in Resources */ = {isa = PBXBuildFile; fileRef = FA6ACAC427B1933D001F9DF1 /* app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png */; };
 		FA72084F270DCD9C00531DF4 /* DateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA72084E270DCD9C00531DF4 /* DateViewController.swift */; };
 		FA720854270F6B3200531DF4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FA720853270F6B3100531DF4 /* GoogleService-Info.plist */; };
 		FA7550D126FF62BF003AE9A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7550D026FF62BF003AE9A1 /* AppDelegate.swift */; };
@@ -116,6 +118,8 @@
 		FA392CB8274BA9A800774A5E /* Reminder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reminder.swift; sourceTree = "<group>"; };
 		FA392CBA274BB2A000774A5E /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 		FA392CBC274BD44100774A5E /* ReminderChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderChecker.swift; sourceTree = "<group>"; };
+		FA6ACAC027B191D3001F9DF1 /* myautobudget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myautobudget.png; sourceTree = "<group>"; };
+		FA6ACAC427B1933D001F9DF1 /* app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png"; sourceTree = "<group>"; };
 		FA72084E270DCD9C00531DF4 /* DateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateViewController.swift; sourceTree = "<group>"; };
 		FA720853270F6B3100531DF4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		FA7550CD26FF62BF003AE9A1 /* myAutoBudget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myAutoBudget.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -293,6 +297,8 @@
 		FA34A31527762C67004E7678 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				FA6ACAC027B191D3001F9DF1 /* myautobudget.png */,
+				FA6ACAC427B1933D001F9DF1 /* app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png */,
 				FA34A31827762C67004E7678 /* IMG_0318.GIF */,
 				FA34A31E27762C67004E7678 /* IMG_0317.GIF */,
 				FAF63C3A27A69F0C00290221 /* 1.jpg */,
@@ -501,8 +507,10 @@
 				FAF63C3D27A69F0C00290221 /* 6.jpg in Resources */,
 				FA7E8C05272EE28C00CD3C8B /* CarsTableViewCell.xib in Resources */,
 				FA7550DD26FF62C5003AE9A1 /* LaunchScreen.storyboard in Resources */,
+				FA6ACAC527B1933D001F9DF1 /* app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png in Resources */,
 				FAF63C3E27A69F0C00290221 /* 4.jpg in Resources */,
 				FAF63C4027A69F0C00290221 /* 1.jpg in Resources */,
+				FA6ACAC127B191D3001F9DF1 /* myautobudget.png in Resources */,
 				FA34A32A27762C67004E7678 /* IMG_0317.GIF in Resources */,
 				FA7E8C1127307FFE00CD3C8B /* EcoTableViewCell.xib in Resources */,
 				FA7550DA26FF62C5003AE9A1 /* Assets.xcassets in Resources */,

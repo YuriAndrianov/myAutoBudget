@@ -18,6 +18,8 @@ class ReminderChecker {
     
     var lastMileage: Int?
     var car: Car!
+
+    private init() {}
     
     func checkForReminders(on vc: UIViewController) {
         guard let tabBarController = vc.tabBarController as? MainTabBarController else { return }

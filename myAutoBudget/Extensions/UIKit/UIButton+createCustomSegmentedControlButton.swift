@@ -8,6 +8,7 @@
 import UIKit
 
 extension UIButton {
+
     func createCustomSegmentedControlButton(withTitle title: String) -> UIButton {
         let button = UIButton()
         button.translatesAutoresizingMaskIntoConstraints = false
@@ -19,4 +20,5 @@ extension UIButton {
         button.layer.cornerRadius = 8
         return button
     }
+    
 }

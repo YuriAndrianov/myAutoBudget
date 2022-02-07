@@ -8,6 +8,7 @@
 import Foundation
 
 extension String {
+
     func withTwoFractionDigits(from value: Double) -> String {
         let formatter = NumberFormatter()
         formatter.minimumFractionDigits = 2
@@ -15,4 +16,5 @@ extension String {
         let number = NSNumber.init(value: value)
         return String(formatter.string(from: number) ?? "")
     }
+    
 }
