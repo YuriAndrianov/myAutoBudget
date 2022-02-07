@@ -1,8 +1,8 @@
-# myAutoBudget ![Alt-текст](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/myautobudget.png "ICON")
+# myAutoBudget ![Alt-текст](https://github.com/YuriAndrianov/myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/myautobudget.png "ICON")
 
 **myAutoBudget** is a budgeting app that allows you to track the costs of your car, save them and keep statistics 
 
-## [<img src="https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png "BADGE"" height="50">](https://apple.co/34I36na)
+## [![](https://github.com/YuriAndrianov/myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/app-store-badge-available-on-the-app-store-text-alphabet-number-symbol-transparent-png-480148-2.png)](https://apple.co/34I36na)
 
 ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/IMG_0317.GIF "GIF1") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/IMG_0318.GIF "GIF2")
 
