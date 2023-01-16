@@ -24,7 +24,7 @@
 
 ### Screenshots
 
-![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/1.jpg "Scr1" width="200" height="433") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/2.jpg "Scr2" width="200" height="433") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/3.jpg "Scr3" width="200" height="433") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/4.jpg "Scr4" width="200" height="433") 
+![Alt-text]("https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/1.jpg" width="200" height="433") ![Alt-text]("https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/2.jpg" width="200" height="433") ![Alt-text]("https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/3.jpg" width="200" height="433") ![Alt-text]("https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/4.jpg" width="200" height="433") 
 
 ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/5.jpg "Scr5") ![Alt-text](https://github.com/YuriAndrianov/myApp-myAutoBudget/blob/main/myAutoBudget/Resources/Screenshots/6.jpg "Scr6") 
 
